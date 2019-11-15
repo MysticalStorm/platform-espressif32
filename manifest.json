@@ -1065,7 +1065,7 @@
       "version": "3.30202.190627"
     }, 
     {
-      "sha1": "b00918931cc34e94dfc8cd2562595742d34a3ee5", 
+      "sha1": "00596ffaabd4bb8ef317bf7f07b7f7cf95da1889", 
       "system": "*", 
       "url": "https://tmpfiles.org/dl/31557/esp-idf-master1.zip", 
       "version": "3.30300.190916"
